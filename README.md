@@ -17,3 +17,9 @@ No
 # Instalar as dependências e iniciar o projeto
 
 Yes
+
+# Extensão para comando de criar o componente
+
+ES7+ React/Redux/React-Native snippets
+
+Dentro do componente digite: "rafce"
