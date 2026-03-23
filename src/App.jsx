@@ -1,6 +1,8 @@
 import { use, useEffect, useState } from "react"
 import Header from "./components/Header"
 import Resultado from "./components/Resultado"
+import './css/global.css'
+import './css/estilo.css'
 
 function App() {
   // Hooks - useState - Manipula o estado da variável

@@ -1,4 +1,6 @@
 import React from 'react'
+import './css/global.css'
+import './css/estilo.css'
 
 const Header = () => {
   return (

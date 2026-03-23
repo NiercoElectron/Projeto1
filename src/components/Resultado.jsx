@@ -1,4 +1,6 @@
 import React from 'react'
+import '../css/global.css'
+import '../css/resultado.css'
 
 // Desestruturação Do resultado para pegar o valor
 const Tabela = ({resultado}) => {

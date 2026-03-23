@@ -1,0 +1,22 @@
+.resultado {
+    margin-top: 20px;
+    width: 400px;
+    padding: 10px;
+    background: var(--bgColor1);
+    border-radius: 20px;
+    text-align: center;
+    color: var(--fontColor);
+}
+
+.imcSpan {
+    bacground: var(--bgColor2);
+}
+
+.tabela {
+    margin-top: 30px;
+    width: 400px;
+    background: var(--bgColor2);
+    border-radius: 20px;
+    text-align: center;
+    border-spacing: 0;
+}
